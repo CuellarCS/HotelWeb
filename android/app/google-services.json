@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "412308896498",
+    "project_id": "hotelweb-15221",
+    "storage_bucket": "hotelweb-15221.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412308896498:android:1754cfa7fd6b897c7e2e6b",
+        "android_client_info": {
+          "package_name": "com.flutter.hotelweb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "412308896498-kc9otdnj7mn42h1nsbto335ajboaeuv3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-sRGsLpg-oodNswihvXjITXFdOI2qWkQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "412308896498-kc9otdnj7mn42h1nsbto335ajboaeuv3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
